@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/FORUM_VE",
+    "name": "OpenMageModuleFostering\/FORUM_VE",
     "type": "magento-module",
     "license": "GPL",
     "homepage": "",
     "description": "Forum VE",
     "authors": [
-    {
-        "name": "Virtual Employee",
-        "email": "ve.ppm2@gmail.com"
-    }
-],
+        {
+            "name": "Virtual Employee",
+            "email": "ve.ppm2@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
